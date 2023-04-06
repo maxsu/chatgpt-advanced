@@ -63,8 +63,9 @@ https://user-images.githubusercontent.com/3750161/214155508-5c1ad4d8-b565-4fe0-9
 
 1. `git clone https://github.com/qunash/chatgpt-advanced.git`
 2. `npm install`
-3. `npm run build-prod`
-4. Grab your zip extension from `build/` folder
+3. `npm test`
+4. `npm run build-prod`
+5. Grab your zip extension from `build/` folder
 </details>
 
 <br>
